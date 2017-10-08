@@ -1,3 +1,3 @@
 # hello-world
 
-çok uzun bir süredir üretmiyorum
+train-study-work-enyoj
